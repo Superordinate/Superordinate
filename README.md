@@ -1,4 +1,10 @@
-#Superordinate
+#Superordinate - something we no longer need to develop on our own, because we found others developing many of the same functions, features and concepts for their own linux distribution, Solus.  [Solus-project.org](Solus Project)
+
+
+
+
+
+
 A serious attempt at defining a set of standards for a high-performing, up to date and highly compatible paid binary linux distribution.  
 
 BTC: 1MtPZ2Q7ELJNVZcVHkyuuGuN1WQufwRfU7
