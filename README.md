@@ -7,7 +7,8 @@
 
 A serious attempt at defining a set of standards for a high-performing, up to date and highly compatible paid binary linux distribution.  
 
-BTC: 1MtPZ2Q7ELJNVZcVHkyuuGuN1WQufwRfU7
+--BTC: 1MtPZ2Q7ELJNVZcVHkyuuGuN1WQufwRfU7--  (though if you'd like to send us money, we'll take it, and make it into food which leaves our bodies as code & concepts....
+
 Note: first 5 donors of any amount will get a lifetime subscription to Superordinate, which we will to develop continuously for a mighty long time indeed.  Refund if nothing posted here within 30 days of the first donation.  
 
 ##Linux Sucks!
